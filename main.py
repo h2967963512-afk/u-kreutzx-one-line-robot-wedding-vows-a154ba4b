@@ -8,6 +8,8 @@ Python 3.13, standard library only, no network.
 # low-battery warnings, then turns on the last words — the vow
 # holds only until the warranty expires. One line, 152 characters
 # — inside the 160-character gate.
+# Revision note (parent pass): re-checked after the local run —
+# the 152-character line is unchanged; this note only records the check.
 import os
 
 TEXT = (
